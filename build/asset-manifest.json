@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/resume/static/css/main.62a348b6.css",
+    "main.js": "/resume/static/js/main.1630ad30.js",
+    "static/media/b3.jpg": "/resume/static/media/b3.7213acd9a17d34b9e2dd.jpg",
+    "static/media/b4.jpg": "/resume/static/media/b4.906e16b4ce36c98b0f9d.jpg",
+    "index.html": "/resume/index.html",
+    "main.62a348b6.css.map": "/resume/static/css/main.62a348b6.css.map",
+    "main.1630ad30.js.map": "/resume/static/js/main.1630ad30.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.62a348b6.css",
+    "static/js/main.1630ad30.js"
+  ]
+}
