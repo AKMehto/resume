@@ -1,0 +1,222 @@
+
+
+.container{
+	width: 95%;
+	height: 400px;
+	position: relative;
+	transform-style: preserve-3d;
+	animation: rotate 10s ease-in infinite alternate;
+	perspective: 5000000px;
+	transition: 1s all;
+
+	
+}
+
+#dice{
+	text-align: center;
+	font-size: 10vh;
+	font-weight: 700;
+	 color:coral;
+}
+
+.let1{
+	position: absolute;
+}
+
+.let2{
+	position: absolute;
+    transform:rotateY(90deg) translateZ(100px) translateX(-100px);
+}
+
+.let3{
+	position: absolute;
+	transform: rotateY(90deg) translateZ(-100px) translateX(-100px);
+ }
+
+ .let4{
+	position: absolute;
+    transform: translateZ(200px);
+
+}
+
+.let5{
+	position: absolute;
+	transform: rotateX(90deg) translateY(100px) translateZ(-100px);
+}
+
+.let6{
+	position: absolute;
+	transform: rotateX(90deg) translateY(100px) translateZ(100px);
+}
+
+
+.face{
+	background-color: brown;
+	width:200px;
+	height: 200px;
+	position:relative;
+	border:2px solid black;
+}
+
+
+.one{
+	position: absolute;
+	left:50px;
+	top:50px;
+	width:100px;
+	height: 100px;
+	background-color: black;
+	border-radius: 50px;	
+}
+
+#two1{
+ margin-left:110px;
+ margin-top:60px;	
+}
+
+#two2{
+ margin-left:10px;
+ margin-top:60px;	
+}
+
+.two{
+	position: absolute;
+	width:80px;
+	height: 80px;
+	background-color: black;
+	border-radius: 50px;}
+
+#three1{
+	margin:5px;
+}
+
+
+#three2{
+	margin:70px;
+}
+
+#three3{
+	margin:130px;
+}
+
+.three{
+	position: absolute;
+	width:60px;
+	height:60px;
+	background-color: black;
+	border-radius: 50px;
+}
+
+
+
+
+.four{
+    position: absolute;
+	width:60px;
+	height:60px;
+	background-color: black;
+	border-radius: 50px;
+}
+
+#four1{
+	margin-left:20px;
+	margin-top:20px;
+}
+
+#four2{
+	margin-top: 20px;
+	margin-left:120px;
+}
+
+#four3{
+	margin-top:120px;
+	margin-left:20px;
+}
+
+#four4{
+	margin-top:120px;
+	margin-left: 120px;
+}
+
+.five{
+	position: absolute;
+	width:60px;
+	height:60px;
+	background-color: black;
+	border-radius: 50px;
+
+}
+
+#five1{
+	margin-left:10px;
+	margin-top:10px;
+}
+
+#five2{
+	margin-left:130px;
+	margin-top:10px;
+}
+
+#five3{
+	margin-left: 10px;
+	margin-top:130px;
+}
+
+#five4{
+	margin-left: 130px;
+	margin-top:130px;
+}
+
+#five5{
+	margin:70px;
+}
+
+
+.six{
+	position: absolute;
+	width:50px;
+	height:50px;
+	background-color: black;
+	border-radius: 50px;
+}
+
+#six1{
+	margin-left:10px;
+	margin-top:10px;
+
+}
+
+
+
+#six1{
+	margin-top:5px;
+	margin-left:10px;
+}
+
+#six2{
+	margin-top:5px;
+	margin-left:130px;
+}
+#six3{
+	margin-top:75px;
+	margin-left:10px;
+}
+
+#six4{
+	margin-top:75px;
+	margin-left:130px;
+}
+
+#six5{
+	margin-top:145px;
+	margin-left: 130px;
+}
+
+#six6{
+	margin-top:145px;
+	margin-left:10px;
+}
+
+
+
+

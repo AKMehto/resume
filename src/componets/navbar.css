@@ -1,0 +1,78 @@
+
+@media only screen and (min-width:992px) {
+    .btn{
+        padding: 0px;
+        margin: 0px;
+        border: 0px;
+    }
+    
+    .color_white{
+        color:white;
+        }
+        
+        .person_name{
+            color:bisque;
+        }
+
+    .list-item li {
+     
+        padding-left: 10vh;
+        padding-right: 10vh;
+    }
+    
+    .list-item li :hover{
+        background-color: rgb(255, 64, 0);
+    }
+    
+    .dropdown-menu li{
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    
+  
+    
+    .navbar{
+        padding: 0px;
+    }
+
+    
+a{
+    color:white;
+}
+}
+
+
+.nav-link{
+ 
+    color: rgb(255, 255, 255);
+}
+
+.nav-link:hover{
+    opacity: .6;
+    color: rgb(3, 183, 180);
+}
+
+a{
+    color:white;
+}
+
+.nav-link:active{
+ 
+    color: rgb(255, 255, 255);
+}
+
+
+.person-name{
+  text-shadow: aqua;
+  font-weight: 800;
+}
+
+
+div.sticky {
+ 
+    position: sticky;
+    top: 0;
+    padding: 0px;
+    z-index:2;
+   
+  }

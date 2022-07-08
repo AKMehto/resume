@@ -1,0 +1,27 @@
+.Contact{
+    background-size: 100% 100%;
+
+    background-attachment: fixed; 
+    background-image: url('../../public/b4.jpg');
+}
+
+
+#icons{
+font-size: 100px;
+margin-left:35%;
+color:black;
+}
+
+#contact-list >i{
+    font-size: 5vh;
+
+color:rgb(255, 255, 255);
+}
+
+
+
+.contact-font{
+    position:relative;
+    top:-6px;
+    color: aliceblue;
+}

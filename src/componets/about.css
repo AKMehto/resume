@@ -1,0 +1,21 @@
+.about-section{
+    margin-left: 17px;
+    color: aliceblue;
+    font-size: 5vw;
+
+}
+
+.about-section >strong{
+    color: burlywood;
+    font-size: 5vw;
+  
+}
+
+#about-heading{
+
+    text-align: center;
+    color:rgba(41, 140, 107, 0.775);
+  
+    font-size:20vw;
+    font-family: 'Rubik Moonrocks', cursive;
+}

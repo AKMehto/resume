@@ -1,0 +1,32 @@
+.skills-items{
+    font-family: 'Bebas Neue', cursive;
+color:aliceblue;
+font-family: monospace;
+font-family: ;
+}
+
+a{
+    list-style: none;
+    list-style:disc;
+    text-decoration: none;
+}
+
+a:active{
+    color:burlywood;
+}
+
+.S-Heading{
+    text-align: center;
+    color: cadetblue;
+    font-family: 'Rubik Moonrocks', cursive;
+    
+    font-size:20vw;
+    
+  }
+
+
+
+
+  .skills-list{
+   font-size: 6vw; 
+  }

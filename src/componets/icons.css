@@ -1,0 +1,18 @@
+.Icons-containers{
+left:16vw;
+position: relative;
+top:-45px;
+}
+
+.s-icons{
+margin-left: 4vw;
+margin-right: 4vw;
+
+}
+
+.s-icons:hover{
+    box-shadow: rgba(247, 237, 237, 0.25) 0px 54px 55px,  rgba(247, 237, 237, 0.25) 0px -12px 30px,  rgba(247, 237, 237, 0.25) 0px 4px 6px,  rgba(247, 237, 237, 0.25) 0px 12px 13px,  rgba(247, 237, 237, 0.25) 0px -3px 5px;
+    /* box-shadow: rgba(255, 255, 255, 0.4) 0px 0px 0px 2px, rgba(255, 255, 255, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset; */
+    /* box-shadow: rgba(255, 253, 253, 0.7) 0px 22px 70px 4px; */
+}
+
